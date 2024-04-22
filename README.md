@@ -1,3 +1,5 @@
+[![image.png](https://i.postimg.cc/dtd6SBts/image.png)](https://postimg.cc/Ln9jJj1w)
+
 Fergana is a machine learning framework that allows you to do some fancy things with numbers and work with deep learning in several ways.
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fergana)
