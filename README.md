@@ -1,5 +1,12 @@
 Fergana is a machine learning framework that allows you to do some fancy things with numbers and work with deep learning in several ways.
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fergana)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/fergana)
+![PyPI - Version](https://img.shields.io/pypi/v/fergana)
+
+
+
+
 
 
 # Install
